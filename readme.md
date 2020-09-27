@@ -1,5 +1,5 @@
 ## Funny Snippets
-I wanted to explore emoji art a bit so I thought of creating funny snippets using emoji art. They can be used as a part of functions, comments and logs. I tried to make the mesaages a bit funny using emoji art and text such that it can catch peoples eye easily.
+I wanted to explore emoji art a bit so I thought of creating funny snippets using emoji art. They can be used as a part of functions, comments and logs. I tried to make the mesaages a bit funny using emoji art and text such that it can catch peoples eye easily.😜
 
 
 ### Snippets
