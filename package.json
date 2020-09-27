@@ -1,0 +1,17 @@
+{
+    "name": "funny-snippets",
+    "displayName": "Funny Sinnpets",
+    "description": "Funny Snnipets using emoji art",
+    "version": "0.0.1",
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets.json"
+            }
+        ]
+    }
+}
