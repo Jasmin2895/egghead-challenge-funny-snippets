@@ -1,6 +1,6 @@
 {
     "success-console-msg": {
-        "prefix": "",
+        "prefix": "success-log",
         "body": [
             "console.log(`If you are reading this, then my program is probably a success",
             "             ░░█▀░░░░░░░░░░░▀▀███████░░░░ ",
