@@ -11,3 +11,5 @@ I wanted to explore emoji art a bit so I thought of creating funny snippets usin
 * `site`: Funny comment using emoji art for site cannot be reached.
 
 * `try` : Funny try catch block using emoji art.
+
+* `no-internet`: Chrome no internet game using emoji art
